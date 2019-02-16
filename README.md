@@ -1,7 +1,7 @@
 # Teste Frontend
 
 Experiência com o Teste
-> Embora, faça quase 2 anos que não trabalho com o bootstrap e devido ao curto espaço de tempod de entrega, acredito que as atividades previstas no teste são bem interessantes para relembrar, aprender e testar os conhecimentos adquiridos tempos atrás. 
+> Embora, faça quase 2 anos que não trabalho com o bootstrap e devido ao curto espaço de tempo de entrega, acredito que as atividades previstas no teste são bem interessantes para relembrar, aprender e testar os conhecimentos adquiridos tempos atrás. 
 
 Dificuldades
   - Tempo, para metade de um dia não conseguir estudar a fundo a nova arquitetura Bootstrap.

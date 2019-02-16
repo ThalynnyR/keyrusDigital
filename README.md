@@ -9,7 +9,7 @@ Dificuldades
   - Nunca trabalhei do zero diretamente com Less e Sass, mas muito interessante
 
 # Teste
-Acesso
+Acesso a pagina inicial
  - site > index.html
 
 Foram usados Bootstrap, Html, Css e JavaScrit

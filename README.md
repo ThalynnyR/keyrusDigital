@@ -9,6 +9,8 @@ Dificuldades
   - Nunca trabalhei do zero diretamente com Less e Sass, mas muito interessante
 
 # Teste
+Acesso
+ - site > index.html
 
 Foram usados Bootstrap, Html, Css e JavaScrit
   - Acessando o index.html da pasta, teremos a tela sendo carregada
@@ -17,4 +19,3 @@ Foram usados Bootstrap, Html, Css e JavaScrit
   - Se as validações estiverem validadas corretamento o botão redireciona para o site Keyrus
         - Acredito que no constexto real, levando em consideração as heuristicas de Ux, o toast de Suscesso para login vem na página posterior a entrada ou o próprio redirecionamento já demonstra para o usuário o sucesso da ação.
 
-# keyrusDigital

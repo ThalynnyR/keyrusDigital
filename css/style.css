@@ -1,0 +1,125 @@
+body  {
+    background-color:#cccccc63;
+  }
+
+.navbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    height: 90px;
+}
+
+.fa-user-circle {
+    font-size: 70px;
+    margin: 30px 120px;
+}
+
+img {
+    margin-left: 40px;
+    width: 5%;
+    height: 5%;
+}
+.myCard{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    max-width: 100%;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+    
+}
+
+.card-body {
+    color:#777777f5;
+}
+
+.form-check {
+    margin: 15px 70px;
+    font-size: 12px;
+}
+
+.inscrever {
+    margin-top: 60%; 
+    color:#777777f5;
+    text-align: center;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    color:#777777f5;
+}
+
+.center-bt {
+    margin: 0px 90px;
+    width: 40%;
+    font-weight: bold;
+  }
+
+  /* Toast */
+
+
+  #msgSucesso {
+    visibility: hidden;
+    width: 350px;
+    background-color: #90e988;
+    color: rgb(3, 99, 19);
+    font-weight: bold;
+    text-align: right;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    bottom: 30px;
+    font-size: 15px;
+  }
+  
+  #msgSucesso.mostrar {
+    visibility: visible;
+    position: fixed;
+    /* -webkit-animation: fadein fixed, fadeout fixed;
+    animation: fadein fixed, fadeout fixed; */
+  }
+  
+
+  #msgErro {
+    visibility: hidden;
+    width: 350px;
+    background-color: #ef9a9a;
+    color: rgb(94, 6, 6);
+    font-weight: bold;
+    text-align: right;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    bottom: 30px;
+    font-size: 15px;
+  }
+  
+  #msgErro.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout fixed;
+    animation: fadein fixed, fadeout fixed;
+  }
+  
+  @-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;} 
+    to {bottom: 30px; opacity: 1;}
+  }
+  
+  @keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+  }
+  
+  @-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;} 
+    to {bottom: 0; opacity: 0;}
+  }
+  
+  @keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+  }
+
